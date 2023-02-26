@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcomer</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="hello">Hello</string>
+    <string name="go_back">Go back</string>
+</resources>
